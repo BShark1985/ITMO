@@ -1,0 +1,26 @@
+<!DOCTYPE TimeTable SYSTEM "lessons_DTD.dtd">
+<myns:TimeTable xmlns:myns = "http://www.itmo.ru/xml/lessons">
+	<myns:lesson id = "a">
+		<myns:LessonName>Алгебра</myns:LessonName>
+		<myns:LessonCategory>Точные</myns:LessonCategory>
+		<myns:TeacherName>Иванова</myns:TeacherName>
+		<myns:DateOfStart>01.09.2022</myns:DateOfStart>
+        <myns:DateOfFinish>31.05.2023</myns:DateOfFinish>
+	</myns:lesson>
+	
+	<myns:lesson id = "b">
+		<myns:LessonName>Физика</myns:LessonName>
+		<myns:LessonCategory>Естественные</myns:LessonCategory>
+		<myns:TeacherName>Петрова</myns:TeacherName>
+		<myns:DateOfStart>01.09.2022</myns:DateOfStart>
+        <myns:DateOfFinish>31.05.2023</myns:DateOfFinish>
+	</myns:lesson>
+	
+	<myns:lesson id = "c">
+		<myns:LessonName>Литература</myns:LessonName>
+		<myns:LessonCategory>Гуманитарные</myns:LessonCategory>
+		<myns:TeacherName>Сидоров</myns:TeacherName>
+		<myns:DateOfStart>01.09.2022</myns:DateOfStart>
+        <myns:DateOfFinish>31.05.2023</myns:DateOfFinish>
+	</myns:lesson>
+</myns:TimeTable>

@@ -1,0 +1,23 @@
+<!DOCTYPE library SYSTEM "task2_DTD.dtd">
+<book_catalog:library xmlns:book_catalog = "http://www.itmo.ru/xml/lessons">
+	<book_catalog:book id = "a">
+		<book_catalog:authors?>Алгебра</book_catalog:authors?>
+		<book_catalog:title>Точные</book_catalog:title>
+		<book_catalog:publishing>Иванова</book_catalog:publishing>
+		<book_catalog:annotation?>01.09.2022</book_catalog:annotation?>
+	</book_catalog:lesson>
+	
+	<book_catalog:lesson id = "b">
+		<book_catalog:authors?>Физика</book_catalog:authors?>
+		<book_catalog:title>Естественные</book_catalog:title>
+		<book_catalog:publishing>Петрова</book_catalog:publishing>
+		<book_catalog:annotation?>01.09.2022</book_catalog:annotation?>
+	</book_catalog:lesson>
+	
+	<book_catalog:lesson id = "c">
+		<book_catalog:authors?>Литература</book_catalog:authors?>
+		<book_catalog:title>Гуманитарные</book_catalog:title>
+		<book_catalog:publishing>Сидоров</book_catalog:publishing>
+		<book_catalog:annotation?>01.09.2022</book_catalog:annotation?>
+	</book_catalog:lesson>
+</book_catalog:TimeTable>

@@ -1,0 +1,7 @@
+<!ELEMENT TimeTable (lesson+)>
+<!ELEMENT lesson (LessonName, LessonCategory, TeacherName, DateOfStart, DateOfFinish)> 
+<!ELEMENT LessonName (#PCDATA)> 
+<!ELEMENT LessonCategory (#PCDATA)> 
+<!ELEMENT TeacherName (#PCDATA)> 
+<!ELEMENT DateOfStart (#PCDATA)> 
+<!ELEMENT DateOfFinish (#PCDATA)>
