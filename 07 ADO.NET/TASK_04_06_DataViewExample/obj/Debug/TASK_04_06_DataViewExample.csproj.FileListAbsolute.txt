@@ -1,0 +1,15 @@
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\obj\Debug\TASK_04_06_DataViewExample.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\obj\Debug\TASK_04_06_DataViewExample.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\obj\Debug\TASK_04_06_DataViewExample.Form1.resources
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\obj\Debug\TASK_04_06_DataViewExample.Properties.Resources.resources
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\obj\Debug\TASK_04_06_DataViewExample.csproj.GenerateResource.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\obj\Debug\TASK_04_06_DataViewExample.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\bin\Debug\TASK_04_06_DataViewExample.exe.config
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\bin\Debug\TASK_04_06_DataViewExample.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\bin\Debug\TASK_04_06_DataViewExample.pdb
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\obj\Debug\TASK_04_06_DataViewExample.csproj.CopyComplete
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\obj\Debug\TASK_04_06_DataViewExample.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_06_DataViewExample\obj\Debug\TASK_04_06_DataViewExample.pdb

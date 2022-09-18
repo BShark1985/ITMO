@@ -1,0 +1,11 @@
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\bin\Debug\TASK_04_DatasetDesigner.exe.config
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\bin\Debug\TASK_04_DatasetDesigner.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\bin\Debug\TASK_04_DatasetDesigner.pdb
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\obj\Debug\TASK_04_01_DatasetDesigner.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\obj\Debug\TASK_04_01_DatasetDesigner.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\obj\Debug\TASK_04_DatasetDesigner.Form1.resources
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\obj\Debug\TASK_04_DatasetDesigner.Properties.Resources.resources
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\obj\Debug\TASK_04_01_DatasetDesigner.csproj.GenerateResource.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\obj\Debug\TASK_04_01_DatasetDesigner.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\obj\Debug\TASK_04_DatasetDesigner.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_01_DatasetDesigner\obj\Debug\TASK_04_DatasetDesigner.pdb

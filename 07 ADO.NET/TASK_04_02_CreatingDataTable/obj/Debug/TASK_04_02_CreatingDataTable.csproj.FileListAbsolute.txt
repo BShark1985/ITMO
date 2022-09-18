@@ -1,0 +1,11 @@
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\bin\Debug\TASK_04_02_CreatingDataTable.exe.config
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\bin\Debug\TASK_04_02_CreatingDataTable.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\bin\Debug\TASK_04_02_CreatingDataTable.pdb
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\obj\Debug\TASK_04_02_CreatingDataTable.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\obj\Debug\TASK_04_02_CreatingDataTable.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\obj\Debug\TASK_04_02_CreatingDataTable.Form1.resources
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\obj\Debug\TASK_04_02_CreatingDataTable.Properties.Resources.resources
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\obj\Debug\TASK_04_02_CreatingDataTable.csproj.GenerateResource.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\obj\Debug\TASK_04_02_CreatingDataTable.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\obj\Debug\TASK_04_02_CreatingDataTable.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_04_02_CreatingDataTable\obj\Debug\TASK_04_02_CreatingDataTable.pdb
