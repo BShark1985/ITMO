@@ -1,0 +1,8 @@
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_07_01_Linq_Student\bin\Debug\TASK_07_01_Linq_Student.exe.config
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_07_01_Linq_Student\bin\Debug\TASK_07_01_Linq_Student.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_07_01_Linq_Student\bin\Debug\TASK_07_01_Linq_Student.pdb
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_07_01_Linq_Student\obj\Debug\TASK_07_Linq_Student.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_07_01_Linq_Student\obj\Debug\TASK_07_Linq_Student.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_07_01_Linq_Student\obj\Debug\TASK_07_Linq_Student.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_07_01_Linq_Student\obj\Debug\TASK_07_01_Linq_Student.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_07_01_Linq_Student\obj\Debug\TASK_07_01_Linq_Student.pdb
