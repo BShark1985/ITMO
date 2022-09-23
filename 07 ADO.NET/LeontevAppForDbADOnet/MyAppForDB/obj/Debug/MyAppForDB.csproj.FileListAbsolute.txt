@@ -1,0 +1,13 @@
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\bin\Debug\MyAppForDB.exe.config
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\bin\Debug\MyAppForDB.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\bin\Debug\MyAppForDB.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.Properties.Resources.resources
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.csproj.GenerateResource.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.LoginForm.resources
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.MainForm.resources
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSMyApp2022\MyAppForDB\MyAppForDB\obj\Debug\MyAppForDB.OperatingForm.resources
