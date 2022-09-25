@@ -1,0 +1,6 @@
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_10-01\bin\Debug\Bank.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_10-01\bin\Debug\Bank.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_10-01\obj\Debug\LAB_10-01.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_10-01\obj\Debug\LAB_10-01.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_10-01\obj\Debug\Bank.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_10-01\obj\Debug\Bank.pdb
