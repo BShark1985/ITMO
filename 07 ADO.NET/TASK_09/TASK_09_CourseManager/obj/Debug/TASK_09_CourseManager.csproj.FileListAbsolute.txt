@@ -1,0 +1,17 @@
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\bin\Debug\TASK_09_CourseManager.exe.config
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\bin\Debug\TASK_09_CourseManager.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\bin\Debug\TASK_09_CourseManager.pdb
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\obj\Debug\TASK_09_CourseManager.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\obj\Debug\TASK_09_CourseManager.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\obj\Debug\TASK_09_CourseManager.CourseViewer.resources
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\obj\Debug\TASK_09_CourseManager.Properties.Resources.resources
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\obj\Debug\TASK_09_CourseManager.csproj.GenerateResource.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\obj\Debug\TASK_09_CourseManager.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\obj\Debug\TASK_09_CourseManager.exe
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\obj\Debug\TASK_09_CourseManager.pdb
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\bin\Debug\EntityFramework.dll
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\bin\Debug\EntityFramework.xml
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+E:\ИТМО-курсОбучения\ITMO.124-16.Leontev\07 ADO.NET\TASK_09_CourseManager\obj\Debug\TASK_09_CourseManager.csproj.CopyComplete
