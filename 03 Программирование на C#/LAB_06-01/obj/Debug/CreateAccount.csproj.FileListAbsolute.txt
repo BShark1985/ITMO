@@ -1,0 +1,13 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-01\bin\Debug\CreateAccount.exe.config
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-01\bin\Debug\CreateAccount.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-01\bin\Debug\CreateAccount.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-01\obj\Debug\CreateAccount.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-01\obj\Debug\CreateAccount.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-01\obj\Debug\CreateAccount.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-01\obj\Debug\CreateAccount.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-01\obj\Debug\CreateAccount.pdb
