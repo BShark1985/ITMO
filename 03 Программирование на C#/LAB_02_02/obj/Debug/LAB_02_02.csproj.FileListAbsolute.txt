@@ -1,8 +1,0 @@
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_02_02\bin\Debug\LAB_02_02.exe.config
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_02_02\bin\Debug\LAB_02_02.exe
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_02_02\bin\Debug\LAB_02_02.pdb
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_02_02\obj\Debug\LAB_02_02.csproj.AssemblyReference.cache
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_02_02\obj\Debug\LAB_02_02.csproj.SuggestedBindingRedirects.cache
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_02_02\obj\Debug\LAB_02_02.csproj.CoreCompileInputs.cache
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_02_02\obj\Debug\LAB_02_02.exe
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_02_02\obj\Debug\LAB_02_02.pdb
