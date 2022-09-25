@@ -1,8 +1,0 @@
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-02\bin\Debug\UniqueNumbers.exe.config
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-02\bin\Debug\UniqueNumbers.exe
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-02\bin\Debug\UniqueNumbers.pdb
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-02\obj\Debug\LAB_06-02.csproj.AssemblyReference.cache
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-02\obj\Debug\LAB_06-02.csproj.SuggestedBindingRedirects.cache
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-02\obj\Debug\LAB_06-02.csproj.CoreCompileInputs.cache
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-02\obj\Debug\UniqueNumbers.exe
-E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\CSCourse2022\LAB_06-02\obj\Debug\UniqueNumbers.pdb
