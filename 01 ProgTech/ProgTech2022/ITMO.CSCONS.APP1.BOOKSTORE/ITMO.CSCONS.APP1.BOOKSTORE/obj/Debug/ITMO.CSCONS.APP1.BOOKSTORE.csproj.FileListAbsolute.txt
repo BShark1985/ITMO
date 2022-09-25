@@ -1,0 +1,24 @@
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\bin\Debug\ITMO.CSCONS.APP1.BOOKSTORE.exe.config
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\bin\Debug\ITMO.CSCONS.APP1.BOOKSTORE.exe
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\bin\Debug\ITMO.CSCONS.APP1.BOOKSTORE.pdb
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.csproj.AssemblyReference.cache
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.csproj.CoreCompileInputs.cache
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.exe
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\bin\Debug\ITMO.CSCONS.APP1.BOOKSTORE.exe.config
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\bin\Debug\ITMO.CSCONS.APP1.BOOKSTORE.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\bin\Debug\ITMO.CSCONS.APP1.BOOKSTORE.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\bin\Debug\ITMO.CSCONS.APP1.BOOKSTORE.exe.config
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\bin\Debug\ITMO.CSCONS.APP1.BOOKSTORE.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\bin\Debug\ITMO.CSCONS.APP1.BOOKSTORE.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.CSCONS.APP1.BOOKSTORE\ITMO.CSCONS.APP1.BOOKSTORE\obj\Debug\ITMO.CSCONS.APP1.BOOKSTORE.pdb

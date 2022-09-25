@@ -1,0 +1,16 @@
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\bin\Debug\ITMO.124-16.Leontev.Algorithm6.exe.config
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\bin\Debug\ITMO.124-16.Leontev.Algorithm6.exe
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\bin\Debug\ITMO.124-16.Leontev.Algorithm6.pdb
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.csproj.AssemblyReference.cache
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.csproj.CoreCompileInputs.cache
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.exe
+E:\ИТМО-курс обучения\Проекты VisualStudio\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\bin\Debug\ITMO.124-16.Leontev.Algorithm6.exe.config
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\bin\Debug\ITMO.124-16.Leontev.Algorithm6.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\bin\Debug\ITMO.124-16.Leontev.Algorithm6.pdb
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.csproj.AssemblyReference.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.csproj.SuggestedBindingRedirects.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.csproj.CoreCompileInputs.cache
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.exe
+E:\ИТМО-курсОбучения\ПроектыVisualStudio\ITMO.124_16.Leontev\ProgTech2022\ITMO.124-16.Leontev.Algorithm6\ITMO.124-16.Leontev.Algorithm6\obj\Debug\ITMO.124-16.Leontev.Algorithm6.pdb
