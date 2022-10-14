@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "CreateStudent";
+}
+
+<h3>Форма занесения данных по новым студентам</h3>
+<form method="post" action="">
+    <table class="table">
+        <tr>
+            <td><p>Введите свое Фамилию Имя Отчество</p></td>
+            <td>
+                <input type="text"
+                       name="StudentName" />
+            </td>
+        </tr>
+        <tr>
+            <td><p>Введите номер паспорта (без пробелов)</p></td>
+            <td>
+                <input type="text"
+                       name="PassportNumber" />
+            </td>
+        </tr>
+        <tr>
+            <td><p>Введите оценку по предмету "Технологии программирования"</p></td>
+            <td>
+                <input type="text"
+                       name="TechProg" />
+            </td>
+        </tr>
+        <tr>
+            <td><p>Введите оценку по предмету "Введение в базы данных"</p></td>
+            <td>
+                <input type="text"
+                       name="DBBegin" />
+            </td>
+        </tr>
+        <tr>
+            <td><p>Введите оценку по предмету "Программирование на C#"</p></td>
+            <td>
+                <input type="text"
+                       name="CSProg" />
+            </td>
+        </tr>
+        <tr>
+            <td><p>Введите оценку по предмету "Transact-SQL"</p></td>
+            <td>
+                <input type="text"
+                       name="TSQL" />
+            </td>
+        </tr>
+        <tr>
+            <td><p>Введите оценку по предмету "Разработка Windows-приложений на C#"</p></td>
+            <td>
+                <input type="text"
+                       name="CSDev" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Отправить" />
+            </td>
+            <td></td>
+        </tr>
+    </table>
+</form>
+

@@ -1,0 +1,81 @@
+﻿@{
+    ViewBag.Title = "ТОП-5";
+}
+
+<h2>Рейтинг топ-5 лучших и худших студентов</h2>
+
+<h3>Лучшие топ-5</h3>
+<div class=container>
+    <div>
+        <table class="table">
+            <tr>
+                <td><p>ФИО</p></td>
+                <td><p>Номер паспорта</p></td>
+                <td><p>Сумма баллов</p></td>
+            </tr>
+            @{
+                List<ITMO._124_16.Leontev.ASP.NET.ExamStudentsAPP.Models.Student> beststudents = ViewBag.Students;
+                var orderBestStudents = from b in beststudents
+                                        orderby b.TechProg + b.DBBegin + b.CSProg + b.TSQL + b.CSDev descending
+                                        select new ITMO._124_16.Leontev.ASP.NET.ExamStudentsAPP.Models.Student
+                                        {
+                                            StudentName = b.StudentName,
+                                            PassportNumber = b.PassportNumber,
+                                            TechProg = b.TechProg,
+                                            DBBegin = b.DBBegin,
+                                            CSProg = b.CSProg,
+                                            TSQL = b.TSQL,
+                                            CSDev = b.CSDev
+                                        };
+                IEnumerable<ITMO._124_16.Leontev.ASP.NET.ExamStudentsAPP.Models.Student> orderFiveBestStudents = orderBestStudents.Take(5);
+
+                foreach (var s in orderFiveBestStudents)
+                {
+                    int sum = s.TechProg + s.DBBegin + s.CSProg + s.TSQL + s.CSDev;
+                    <tr>
+                        <td><p>@s.StudentName</p></td>
+                        <td><p>@s.PassportNumber</p></td>
+                        <td><p>@sum</p></td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+
+    <div>
+        <h3>Худшие топ-5</h3>
+        <table class="table">
+            <tr>
+                <td><p>ФИО</p></td>
+                <td><p>Номер паспорта</p></td>
+                <td><p>Сумма баллов</p></td>
+            </tr>
+            @{
+                List<ITMO._124_16.Leontev.ASP.NET.ExamStudentsAPP.Models.Student> worsestudents = ViewBag.Students;
+                var orderWorseStudents = from w in worsestudents
+                                        orderby w.TechProg + w.DBBegin + w.CSProg + w.TSQL + w.CSDev
+                                        select new ITMO._124_16.Leontev.ASP.NET.ExamStudentsAPP.Models.Student
+                                        {
+                                            StudentName = w.StudentName,
+                                            PassportNumber = w.PassportNumber,
+                                            TechProg = w.TechProg,
+                                            DBBegin = w.DBBegin,
+                                            CSProg = w.CSProg,
+                                            TSQL = w.TSQL,
+                                            CSDev = w.CSDev
+                                        };
+                IEnumerable<ITMO._124_16.Leontev.ASP.NET.ExamStudentsAPP.Models.Student> orderFiveWorseStudents = orderWorseStudents.Take(5);
+
+                foreach (var s in orderFiveWorseStudents)
+                {
+                    int sum = s.TechProg + s.DBBegin + s.CSProg + s.TSQL + s.CSDev;
+                    <tr>
+                        <td><p>@s.StudentName</p></td>
+                        <td><p>@s.PassportNumber</p></td>
+                        <td><p>@sum</p></td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</div>

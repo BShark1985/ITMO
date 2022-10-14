@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Студенты";
+}
+
+        <h2>Студенты и успеваемость</h2>
+
+        <h3>Сводная таблица успеваемости</h3>
+        <table class="table">
+            <tr>
+                <td><p>ФИО</p></td>
+                <td><p>Номер паспорта</p></td>
+                <td><p>Технологии программирования</p></td>
+                <td><p>Введение в базы данных</p></td>
+                <td><p>Программирование на C#</p></td>
+                <td><p>Transact-SQL</p></td>
+                <td><p>Разработка Windows-приложений на C#</p></td>
+            </tr>
+            @foreach (var s in ViewBag.Students)
+            {
+                <tr>
+                    <td><p>@s.StudentName</p></td>
+                    <td><p>@s.PassportNumber</p></td>
+                    <td><p>@s.TechProg</p></td>
+                    <td><p>@s.DBBegin</p></td>
+                    <td><p>@s.CSProg</p></td>
+                    <td><p>@s.TSQL</p></td>
+                    <td><p>@s.CSDev</p></td>
+                </tr>
+            }
+        </table>
+        <p>
+            <a class="btn btn-default" href="/Home/CreateStudent">
+                Перейти на форму занесения данных по новым студентам
+                &raquo;
+            </a>
+        </p>

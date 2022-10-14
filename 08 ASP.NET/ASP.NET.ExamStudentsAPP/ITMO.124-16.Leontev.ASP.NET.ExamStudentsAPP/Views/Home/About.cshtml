@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Учет итоговой успеваемости";
+}
+
+<h2>Студенты и сумма баллов</h2>
+
+<h3>Сводная таблица итоговой успеваемости</h3>
+<table class="table">
+    <tr>
+        <td><p>ФИО</p></td>
+        <td><p>Номер паспорта</p></td>
+        <td><p>Сумма баллов</p></td>
+    </tr>
+    @foreach (var s in ViewBag.Students)
+    {
+        int sum = s.TechProg + s.DBBegin + s.CSProg + s.TSQL + s.CSDev;
+        <tr>
+            <td><p>@s.StudentName</p></td>
+            <td><p>@s.PassportNumber</p></td>
+            <td><p>@sum</p></td>
+        </tr>
+    }
+</table>
